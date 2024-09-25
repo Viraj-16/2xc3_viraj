@@ -1,0 +1,7 @@
+So far in this course I have learned 3 major things:
+1.  Various Linux file system commands that can be used to create and manipulate files.
+2. The importance of file permissions and security on Unix-based systems.
+3. Making scipt executable, script does not have execute permission. Learned that permissions are represented by 3-bit binary number or a single Octal digit.
+
+I am excited to learn more about Linux and the possibilties that come with it. I am worried about getting adjusted to this new system.
+
